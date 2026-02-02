@@ -1,0 +1,8 @@
+*.delphilsp.json
+*.dcu
+__history
+*.skincfg
+*.res
+demo/DelphiSoupDemo.dproj.local
+demo/DelphiSoupDemo.dproj
+demo/DelphiSoupDemo.exe
